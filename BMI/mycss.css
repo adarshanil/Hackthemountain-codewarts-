@@ -32,7 +32,7 @@ h2
 	margin-left: 150px;
 	
 }
-#h #w
+#h,#w
 {
 	color: #222f3e;
 	text-align: left;
@@ -45,7 +45,7 @@ h2
 	width: 200px;
 	
 }
-#h:focus #w:focus
+#h:focus,#w:focus
 {
 	border-bottom:2px solid #341f97;
 	width:300px;
