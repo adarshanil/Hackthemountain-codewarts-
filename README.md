@@ -28,6 +28,6 @@ Are you sad,irritated, anxious about your being over weight? Your Health Comerad
 * Best Hardware Hack Sponsored by Digi-Key
 * Best Beginner Hackers
 ## Collaborators 🤖
-[Souvik Dey](https://github.com/Souvikdey10) - Team Lead
-[N. Aditya Sai](https://github.com/aadityasai37) 
-[Adarsh Anil](https://github.com/adarshanil)
+* [Souvik Dey](https://github.com/Souvikdey10) - Team Lead
+* [N. Aditya Sai](https://github.com/aadityasai37) 
+* [Adarsh Anil](https://github.com/adarshanil)
