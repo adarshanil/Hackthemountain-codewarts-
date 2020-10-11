@@ -10,7 +10,7 @@ Official Entry of Team CODEWARTS, from SRM Institute of Science and Technology, 
 Health Comerade!
 ## Background 📖
 Before the COVID-19 Pandemic, all of us were so engrossed in our work, Social Life, Professional Life and other such things that we rarely had the time for personal care. WE barely had any watch over what we eat and drink. The world was in such a hurry that everything seemed never-ending. Now that the COVID-19 Pandemic has broke out and we all are locked inside our homes, we have got time for personal care. We have got time for thinking about ourselves, our lifestyle and our well-being. But, all of us are confused about it. How to do that? What to eat? Which food is best suitable for us? Which Diet Plan is best for us? Worry not, Team CODEWARTS got you covered. TEam CODEWARTS has come up with a project that guides people about their lifestyle, tells the right BMI they should be maintaining, tells you your right diet plan depending upon your lifestyle, your body type and other such factors.
-![Screenshot (469)](https://user-images.githubusercontent.com/71955737/95676208-194a2e00-0bda-11eb-9410-2c9a90ef701d.png)
+![Screenshot (469)](https://user-images.githubusercontent.com/71955737/95676208-194a2e00-0bda-11eb-9410-2c9a90ef701d.png) width=300, height=300
 
 ## Timeline ⏰
 * Oct 9: Research and Idea presentation.
