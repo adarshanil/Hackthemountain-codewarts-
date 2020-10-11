@@ -1,5 +1,5 @@
 # Hackthemountain-codewarts-
-Official Entry of Team Codewarts, from SRM Institute of Science and Technology, Kattankulathur, to Hack the mountain.
+Official Entry of Team CODEWARTS, from SRM Institute of Science and Technology, Kattankulathur, for the Hacathon, Hack the Mountain.
 ## Links to Hack The Mountain
 
 * [Official Website](https://www.hackthemountain.tech/)
@@ -9,7 +9,7 @@ Official Entry of Team Codewarts, from SRM Institute of Science and Technology, 
 ## Track and Problem Statement 🚧
 Health Comerade!
 ## Background 📖
-Are you sad,irritated, anxious about your being over weight? Your Health Comerade is here to help you. This site will give you All the meal plans and even help you with recipes of all the keto diet plan. This site also has videos which will motivate you to follow keto diet. The videos of people who used to be unfit but have totally changed but following keto diet.
+Before the COVID-19 Pandemic, all of us were so engrossed in our work, Social Life, Professional Life and other such things that we rarely had the time for personal care. WE barely had any watch over what we eat and drink. The world was in such a hurry that everything seemed never-ending. Now that the COVID-19 Pandemic has broke out and we all are locked inside our homes, we have got time for personal care. We have got time for thinking about ourselves, our lifestyle and our well-being. But, all of us are confused about it. How to do that? What to eat? Which food is best suitable for us? Which Diet Plan is best for us? Worry not, Team CODEWARTS got you covered. TEam CODEWARTS has come up with a project that guides people about their lifestyle, tells the right BMI they should be maintaining, tells you your right diet plan depending upon your lifestyle, your body type and other such factors.
 ## Timeline ⏰
 * Oct 9: Research and Idea presentation.
 * Oct 10: Development of Website.
