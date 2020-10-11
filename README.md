@@ -18,6 +18,7 @@ Before the COVID-19 Pandemic, all of us were so engrossed in our work, Social Li
 ## Technology Stack 💻
 * HTML
 * CSS
+* JAVA SCRIPT
 ## Nominations for Category/Sponsor Prizes 🤝
 * 1st Prize
 * 2nd Prize
