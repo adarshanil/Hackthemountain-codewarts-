@@ -1,7 +1,7 @@
 # Hackthemountain-codewarts-
 Official Entry of Team CODEWARTS, from SRM Institute of Science and Technology, Kattankulathur, for the Hacathon, Hack the Mountain.
 ## Links to Hack The Mountain
-
+![Screenshot (467)](https://user-images.githubusercontent.com/71955737/95676160-c1abc280-0bd9-11eb-8fba-7a57bc2409d8.png)
 * [Official Website](https://www.hackthemountain.tech/)
 * [Instagram](https://www.instagram.com/hack_the_mountains/?hl=en)
 * [Twitter](https://twitter.com/HackMountains)
